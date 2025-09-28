@@ -19,7 +19,6 @@ const Card = ({ cardData, onClick }) => {
         />
       </div>
       <div className="card-info">
-        <span className="card-label">ANIMO</span>
         <span className="card-name">{cardData.name}</span>
       </div>
     </div>

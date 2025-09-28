@@ -13,7 +13,7 @@ const App = () => {
 
   // Animal names to search for
   const animalNames = [
-    'bear', 'fox', 'bird', 'dog', 'cat', 'wolf', 
+    'bear', 'fox', 'bird', 'dog', 'cat', 'goat', 
     'rabbit', 'panda', 'tiger', 'lion', 'elephant', 'penguin'
   ];
 
