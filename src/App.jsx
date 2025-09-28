@@ -151,7 +151,7 @@ const App = () => {
           onCardClick={handleCardClick}
         />
         <div className="game-instructions">
-          <p>Get points by clicking on an image but don't click on any more than once!</p>
+          <p>&copy; 2025 IronHub Technologies. All rights reserved.</p>
         </div>
         {gameStatus === 'lost' && (
           <div className="game-message">

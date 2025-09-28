@@ -15,7 +15,7 @@ const ScoreBoard = ({ currentScore, bestScore, gameStatus }) => {
       </div>
       {gameStatus === 'playing' && (
         <div className="game-status">
-          <p>Click each animal only once!</p>
+          <p>Get points by clicking on an image but don't click on any more than once!</p>
         </div>
       )}
     </div>
