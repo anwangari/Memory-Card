@@ -5,7 +5,7 @@ const ScoreBoard = ({ currentScore, bestScore, gameStatus }) => {
     <div className="scoreboard">
       {gameStatus === 'playing' && (
         <div className="game-status">
-          <p>Get points by clicking on an image but don't click on any more than once!</p>
+          <p>Get points by clicking on a giph but don't click on any more than once!</p>
         </div>
       )}
       <div className="score-container">
