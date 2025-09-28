@@ -20,7 +20,7 @@ const App = () => {
   // Fetch animal GIFs from Giphy API
   const fetchAnimalGifs = async () => {
     setIsLoading(true);
-    const apiKey = 'GlVGYHkr3WSBnllca54iNt0yFbjz7L65'; // Public demo key
+    const apiKey = '5POCsw5fBOfWaOpS3IFNumTHTwVqHsSy';
     const fetchedCards = [];
 
     try {
